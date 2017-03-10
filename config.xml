@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/captain-rogers" version="1.0.0" viewmodes="fullscreen">
-    <tizen:application id="jBkqtvO6fn.CaptainRogers" package="jBkqtvO6fn" required_version="2.3"/>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/captainRogers" version="1.0.0" viewmodes="fullscreen">
+    <tizen:application id="ZrRqu3eKa1.CaptainRogers" package="ZrRqu3eKa1" required_version="2.3"/>
     <author email="lirolaluis@gmail.com">Luis Lirola</author>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
-    <icon src="lazors1.png" height="117" width="117"/>
+    <icon src="icon2.png" height="117" width="117"/>
     <name>Captain Rogers</name>
     <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
     <tizen:profile name="mobile"/>

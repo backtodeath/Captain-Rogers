@@ -2,13 +2,9 @@
 <SignedInfo>
 <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
-<Reference URI=".gitignore">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>nuRxDhli674dWASUJohsd/ldsf4daWwG3ZW38PzaKwc=</DigestValue>
-</Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AYS9WTnT/GpmrsFR0tV6pselO5Ds705KJoNCFwbp/g4=</DigestValue>
+<DigestValue>o5gT9WbJtkMkXsjHvrlLtMyKR+ySrOsxkbdEN0GsAD8=</DigestValue>
 </Reference>
 <Reference URI="bootstrap.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,15 +16,15 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>IANeyXwy+Bsavx+ihOGglLgcO6D8XMBiwLQPQdWdPag=</DigestValue>
-</Reference>
-<Reference URI="favicon.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3fDKhG60gKxdIX8vTgasEthhwFk1GmIthlKbvFwOLmw=</DigestValue>
+<DigestValue>fw1OCl8+A7dzWMGZKkNcLD4JkcsJgNn/vcDZW+fqXwc=</DigestValue>
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>c6z9MOWNC6Oe0p3qhDUphyfs7dKeRlcFiRUu1JmT2/E=</DigestValue>
+<DigestValue>VziaaPREboVrLry1tM7pboSKWzlJO4bMFFUjvqmqE34=</DigestValue>
+</Reference>
+<Reference URI="icon2.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9RmWRwYiv0w++QFyc+THi/YZvXQSE8BP5JKUhQ4sI3w=</DigestValue>
 </Reference>
 <Reference URI="icons%2Ficon120.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -72,7 +68,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>fZIK0hgwvDtLy9WF6HWCC1Po+A57Xa42tWS6chlMxgM=</DigestValue>
+<DigestValue>Rhcad2xRgdOOgzNqUh3IUV+dpA+Dci3e2l4aUacqSy4=</DigestValue>
 </Reference>
 <Reference URI="jquery.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -81,10 +77,6 @@
 <Reference URI="l10n.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>GMW/A2VpnrreXLOh5Xjzz79mQxvuyA3t/vjNUnG19gU=</DigestValue>
-</Reference>
-<Reference URI="lazors1.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>WzCu3alTmKKD5n+icWzG1Y+aHEhXvh16LVwWC/CmB2w=</DigestValue>
 </Reference>
 <Reference URI="locales%2Fcs%2Fapp.properties">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -703,9 +695,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Pi+Yq2uYZkBwoxQQCrg/eM8Sb2zsHl9GFz3i/4PSiWddve85/sK0CtGDhoaq9R10W1psw4x89rqr
-4TySiEUydQnsIKN7oeZMFmVeMj4/q5RQmw0blUMajRGtybzumXed5nP2RJu1hRUEQgHHtI0Ck/KV
-5lQl5cLyYlXhC3dL0d8=
+jLwvAYr4kqsnUrXnwJ7/pZw32nRJqVc0mkTA5YA15rs1GlNhf4U0Oh6ZNpG1Bg69zDH/ZVYxEVgW
+STleZ9aNWp/v6MgYYBCXCjwul908ABi4kKpinNqpfM/rcv4LY26kvmkgknjzNlZ9Q1xA6Qxw5X7T
+guruscYmJemvjqIRRHg=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
