@@ -12,11 +12,11 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>fw1OCl8+A7dzWMGZKkNcLD4JkcsJgNn/vcDZW+fqXwc=</DigestValue>
+<DigestValue>qEtrhx1IZZ+tbtl562XLh8V+wXzB2goTYaRaLYjFePI=</DigestValue>
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>VziaaPREboVrLry1tM7pboSKWzlJO4bMFFUjvqmqE34=</DigestValue>
+<DigestValue>UADzi8DOpTd2PESPivqsLvyz1Dh6BA+cWurJOwNIF0c=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -64,7 +64,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Rhcad2xRgdOOgzNqUh3IUV+dpA+Dci3e2l4aUacqSy4=</DigestValue>
+<DigestValue>hZotGnFX1wA17Lu8MAfFQXHFwQHSflbcxxxfOI8On/4=</DigestValue>
 </Reference>
 <Reference URI="jquery.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -674,10 +674,6 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>U7iHV7cKfhQIoFKWYNP6GTnooa5OYGdrGFo6MUhAUdM=</DigestValue>
 </Reference>
-<Reference URI="screens%2Fcaptainrogers-mainmenu.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>+xL+ZVc/yA9A3EhHAZvYSJX+pJnSBIAVhUTZbWu6yJE=</DigestValue>
-</Reference>
 <Reference URI="screens%2Fcaptainrogers-story.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>CqV12QtSw737ubySZ3bZEckpUJYcPSkF/6mHn3jtDpQ=</DigestValue>
@@ -691,9 +687,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-JtfljIp94Dn7KXkIbSF5sVhtqDyEAqwQ7BDmhKnsPNwkAJVyNyU23x9HJdQdz5kdveQXSSafZUuQ
-khUCXyURcZZxin5sfGjZvgXTlETRFMq2qVj6IXV23n41/DrIV73iNxUNKz5ChZ7GljS2+zEafW20
-w5tueiniqCaVThn/u/U=
+LJalNVS6dZLZwZ+hHfVrQQ8YbeTIeYBPKsmsC6/zFEDfDcxwL37J6fFqz6oS54TZUtez03qwoQvz
+722VKqUtWmgmWnhEkl/Bbyfv6dvA9VOiL8fVF8HyLjfBfX9my3rhYZUby2REv8ln5nwBG2FTMdAi
+FGuQXlyngjSk3M/Py2c=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

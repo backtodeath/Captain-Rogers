@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>o5gT9WbJtkMkXsjHvrlLtMyKR+ySrOsxkbdEN0GsAD8=</DigestValue>
+<DigestValue>riyaoMxeF/DMdsPdCSF4Al30YJmn3dIGdHtYHWFzyyg=</DigestValue>
 </Reference>
 <Reference URI="bootstrap.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -16,11 +16,11 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>fw1OCl8+A7dzWMGZKkNcLD4JkcsJgNn/vcDZW+fqXwc=</DigestValue>
+<DigestValue>qEtrhx1IZZ+tbtl562XLh8V+wXzB2goTYaRaLYjFePI=</DigestValue>
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>VziaaPREboVrLry1tM7pboSKWzlJO4bMFFUjvqmqE34=</DigestValue>
+<DigestValue>UADzi8DOpTd2PESPivqsLvyz1Dh6BA+cWurJOwNIF0c=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -68,7 +68,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Rhcad2xRgdOOgzNqUh3IUV+dpA+Dci3e2l4aUacqSy4=</DigestValue>
+<DigestValue>hZotGnFX1wA17Lu8MAfFQXHFwQHSflbcxxxfOI8On/4=</DigestValue>
 </Reference>
 <Reference URI="jquery.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -678,10 +678,6 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>U7iHV7cKfhQIoFKWYNP6GTnooa5OYGdrGFo6MUhAUdM=</DigestValue>
 </Reference>
-<Reference URI="screens%2Fcaptainrogers-mainmenu.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>+xL+ZVc/yA9A3EhHAZvYSJX+pJnSBIAVhUTZbWu6yJE=</DigestValue>
-</Reference>
 <Reference URI="screens%2Fcaptainrogers-story.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>CqV12QtSw737ubySZ3bZEckpUJYcPSkF/6mHn3jtDpQ=</DigestValue>
@@ -695,9 +691,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-jLwvAYr4kqsnUrXnwJ7/pZw32nRJqVc0mkTA5YA15rs1GlNhf4U0Oh6ZNpG1Bg69zDH/ZVYxEVgW
-STleZ9aNWp/v6MgYYBCXCjwul908ABi4kKpinNqpfM/rcv4LY26kvmkgknjzNlZ9Q1xA6Qxw5X7T
-guruscYmJemvjqIRRHg=
+om6KjPI2E3pGhJc6IHLa8UetRz2+9IFfrteGqKcHZkH6UFbDNAu/5y28qzU1pKeL/KahbImrySqF
+4YIdtI3RtMBri0eKoCFD+bz2WIKclTavjGHBN0nc5udTobRRp/UfZqg4CoTy2wMiDkgt66A2i2Vl
+garKGPejfYquWE+xyFk=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
