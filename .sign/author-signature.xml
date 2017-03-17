@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>UADzi8DOpTd2PESPivqsLvyz1Dh6BA+cWurJOwNIF0c=</DigestValue>
+<DigestValue>8Ks44azAPpox7cb1v/8Gs++4fh+23btL4uxlB/dDqGg=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -188,7 +188,7 @@
 </Reference>
 <Reference URI="media%2Fimg%2Fdeepspace.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>aMX8J881ARhOdDtEU+CS6wgnydW1Xi8+hXp7dGbMkVw=</DigestValue>
+<DigestValue>m48DMWgOYrbpNyd0UsK0831bjbJ9MWY+fdh4rjUr374=</DigestValue>
 </Reference>
 <Reference URI="media%2Fimg%2Flang%2Fcs%2Fbutton-back.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -687,9 +687,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-LJalNVS6dZLZwZ+hHfVrQQ8YbeTIeYBPKsmsC6/zFEDfDcxwL37J6fFqz6oS54TZUtez03qwoQvz
-722VKqUtWmgmWnhEkl/Bbyfv6dvA9VOiL8fVF8HyLjfBfX9my3rhYZUby2REv8ln5nwBG2FTMdAi
-FGuQXlyngjSk3M/Py2c=
+R009YsDqpvzIzy9QoHKOdjf7aid3cDIB48s48qP/pKWN7OWD3H5agwzX9isut1zgeNyJRC4Syo99
+dh0lxUzCTtte7lZ0IHZlrgUQIu/M4kGSQrLXxdl1wIR7d0MEw7wyAri4X9JsywOZAvN7vRMflmLJ
+9YeJ3g0f8crHWnj2tUY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>riyaoMxeF/DMdsPdCSF4Al30YJmn3dIGdHtYHWFzyyg=</DigestValue>
+<DigestValue>3qa8m9CkRjfwcV7Wip9RlgUZT5w9g87KNvduGiKQpLw=</DigestValue>
 </Reference>
 <Reference URI="bootstrap.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,7 +20,7 @@
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>UADzi8DOpTd2PESPivqsLvyz1Dh6BA+cWurJOwNIF0c=</DigestValue>
+<DigestValue>8Ks44azAPpox7cb1v/8Gs++4fh+23btL4uxlB/dDqGg=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -192,7 +192,7 @@
 </Reference>
 <Reference URI="media%2Fimg%2Fdeepspace.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>aMX8J881ARhOdDtEU+CS6wgnydW1Xi8+hXp7dGbMkVw=</DigestValue>
+<DigestValue>m48DMWgOYrbpNyd0UsK0831bjbJ9MWY+fdh4rjUr374=</DigestValue>
 </Reference>
 <Reference URI="media%2Fimg%2Flang%2Fcs%2Fbutton-back.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -691,9 +691,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-om6KjPI2E3pGhJc6IHLa8UetRz2+9IFfrteGqKcHZkH6UFbDNAu/5y28qzU1pKeL/KahbImrySqF
-4YIdtI3RtMBri0eKoCFD+bz2WIKclTavjGHBN0nc5udTobRRp/UfZqg4CoTy2wMiDkgt66A2i2Vl
-garKGPejfYquWE+xyFk=
+dypoYtfaeD2IoKvxzz0Ijao+Nz2d/ttVCD0HsgRrBaJRwlphk9yQ40mgWHb+GRq4qjWvPueVIwUe
+v4AmoyAyb+7W1H/WdP10W9SGcMMTZv/09JnfLjHwicv38KPbSCtRdrHthQTvqQI3yl+h7HRFZ9EP
+GZ9m9N1in9Qev4Qt0WY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
