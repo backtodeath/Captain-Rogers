@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3qa8m9CkRjfwcV7Wip9RlgUZT5w9g87KNvduGiKQpLw=</DigestValue>
+<DigestValue>AKj+alG2iKCB6TGJWR725hIAdyQO9hXiKHGirzeBm4c=</DigestValue>
 </Reference>
 <Reference URI="bootstrap.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,7 +20,7 @@
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8Ks44azAPpox7cb1v/8Gs++4fh+23btL4uxlB/dDqGg=</DigestValue>
+<DigestValue>SI1Tj1QoJ/9Gup+wrVuOOqYA0ivj6nUeni6BvelnIQM=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -68,7 +68,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hZotGnFX1wA17Lu8MAfFQXHFwQHSflbcxxxfOI8On/4=</DigestValue>
+<DigestValue>66OSj2jq0F7SXVKvpbEo4PF4moygdMXnu1VXBEzuolQ=</DigestValue>
 </Reference>
 <Reference URI="jquery.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -78,37 +78,13 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>GMW/A2VpnrreXLOh5Xjzz79mQxvuyA3t/vjNUnG19gU=</DigestValue>
 </Reference>
-<Reference URI="locales%2Fcs%2Fapp.properties">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2MMuSaAFhasKi7xNrPvYhwchBFAHUBlFhsHNHpfXo90=</DigestValue>
-</Reference>
-<Reference URI="locales%2Fde%2Fapp.properties">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2MMuSaAFhasKi7xNrPvYhwchBFAHUBlFhsHNHpfXo90=</DigestValue>
-</Reference>
 <Reference URI="locales%2Fen%2Fapp.properties">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>9mDlCmWMOg/cypb43r7s9Vj7rw4jIWhcTHGJQTCqgaA=</DigestValue>
 </Reference>
-<Reference URI="locales%2Fes%2Fapp.properties">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2MMuSaAFhasKi7xNrPvYhwchBFAHUBlFhsHNHpfXo90=</DigestValue>
-</Reference>
-<Reference URI="locales%2Fja%2Fapp.properties">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2MMuSaAFhasKi7xNrPvYhwchBFAHUBlFhsHNHpfXo90=</DigestValue>
-</Reference>
 <Reference URI="locales%2Flocales.ini">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>1mXtsUkPJ+W7XrCq03NDq32jMFI5YbJNeEAVIQ6vSlU=</DigestValue>
-</Reference>
-<Reference URI="locales%2Fpl%2Fapp.properties">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2MMuSaAFhasKi7xNrPvYhwchBFAHUBlFhsHNHpfXo90=</DigestValue>
-</Reference>
-<Reference URI="locales%2Fpt_BR%2Fapp.properties">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2MMuSaAFhasKi7xNrPvYhwchBFAHUBlFhsHNHpfXo90=</DigestValue>
 </Reference>
 <Reference URI="media%2Faudio%2Fasteroid-hit.ogg">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -194,69 +170,37 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>m48DMWgOYrbpNyd0UsK0831bjbJ9MWY+fdh4rjUr374=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fbutton-back.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F533%2Fscreen-gamecompleted.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>vGht5BW5vyDXJEujBOtn+h9pFfSCuMzZOCoXQJOvHoA=</DigestValue>
+<DigestValue>fb5eApEC+aJM3AmtL3nrCIAXBLJoKvG4f8qHRJx7AQc=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fbutton-continue.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F533%2Fscreen-howto.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>g085ftWpPm+n2Vzkl8rlZF+Is6E/ludYaDpgQ3utkOQ=</DigestValue>
+<DigestValue>sSfflIQZ43pw82yGzoKJiaVA9FsvVgXRhZ4MfJOSCaQ=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fbutton-restart.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F533%2Fscreen-pause.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>tLjwAZddSvGRGCoyhbmWuTMuaGcVCHVTXffB5UjMhAY=</DigestValue>
+<DigestValue>UJBp8RIEMkCzHtdyvuu6wUDebwCEijPDa9SwHoQmUXk=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fbutton-start.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F533%2Fscreen-story.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>e4a/JPSgpNmejG+NIknIbsUr2VKNaeufxwL6RIQ0f0s=</DigestValue>
+<DigestValue>iGOP/o5YjMRDe+T5ksmQjQAgDDy87tJrOMhCRbjr4UA=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fgameover-best.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F640%2Fscreen-gamecompleted.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CmuSTg+s2J5WnP4Tv6onlRh5DwxsVcFxmtDfc0Xy1OE=</DigestValue>
+<DigestValue>W9cBbGTO/+bmABnLhDGb5Q/BhW4nPVih+Gdwcsv7krY=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fgameover-highscore.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F640%2Fscreen-howto.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>rnKMfOiNwItu/DKo3GfGaEfkuReW04y6zXrO8Ee0wGI=</DigestValue>
+<DigestValue>0vQ11SS36VD78KehoHjr12x8QHTs2JakGdwwXCLUgso=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fgameover-score.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F640%2Fscreen-pause.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>aXhgFgB48mVJrj1s7nFbH0juMb/b4eG1ucu+VOZhI8Y=</DigestValue>
+<DigestValue>f6MJ2oG14v/hszDzKYF4CVjPFVFHsPAexYNi+TWx3u0=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-gamecompleted.png">
+<Reference URI="media%2Fimg%2Flang%2Fen%2F640%2Fscreen-story.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Xo+lLhIzoamsWmC2o1thN5RL6ST3dP60zsKz0qrn2XI=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-gameover-asteroid.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>sjgJNCzvuQELrTi/TnG/sdUw3VmWdvCqTpaE/7GuqLs=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-gameover-mine.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>sjgJNCzvuQELrTi/TnG/sdUw3VmWdvCqTpaE/7GuqLs=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-gameover-offscreen.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mu1MHC04ucAWGYjt6D5Gs2qx+g/bbldIf0Hz3beDn0g=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-howto.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3Q2VSzqjqzmf8ltftBy/d3y17IRPUM6EGYNoP+SM68M=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-pause.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>P7BA0pXTd81TCPDeYYLxnuUj7+JFD3xQdIKAn3mb85A=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fscreen-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>UlW73x0CwHVrq1zfwNvCQUsjvGwsAu0/NB8MxHlHEJ4=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fui-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ellqmfpCQNj4J90IRx7SBbF2aTpew2trKbpjJR+I+wg=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fcs%2Fui-shield.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>I2F6SCgucbma++q0JEMN0RpO4ERZ7YxpfFLxBhrQ2js=</DigestValue>
+<DigestValue>ptd2GMxSBDcPOUbZRZpcsEBqfLGWE2ThGqPr2ypTdCg=</DigestValue>
 </Reference>
 <Reference URI="media%2Fimg%2Flang%2Fen%2Fbutton-back.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -286,10 +230,6 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>8qY5mi1F0jCCzYv/pv8YY5VKvBK/CqxnjK8BX5kRnKI=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fen%2Fscreen-gamecompleted.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>01+anmSJCCCGxkGecCfcq1otLU2vqrac+4FNtpbQr7g=</DigestValue>
-</Reference>
 <Reference URI="media%2Fimg%2Flang%2Fen%2Fscreen-gameover-asteroid.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>R4uzHqaqgN0LS/V3uG5K+tRiEw0UrF/mzy6qXR5d66U=</DigestValue>
@@ -302,18 +242,6 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>pFW6dit0RBg0QsuvdrwqUJaF1AJSbjlcZR27upAlV8I=</DigestValue>
 </Reference>
-<Reference URI="media%2Fimg%2Flang%2Fen%2Fscreen-howto.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>U7iHV7cKfhQIoFKWYNP6GTnooa5OYGdrGFo6MUhAUdM=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fen%2Fscreen-pause.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bFE3medhdo54E59IKS8R3o3iwId5QlK35BxRv9BcfX8=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fen%2Fscreen-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CqV12QtSw737ubySZ3bZEckpUJYcPSkF/6mHn3jtDpQ=</DigestValue>
-</Reference>
 <Reference URI="media%2Fimg%2Flang%2Fen%2Fui-score.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>e5Qry4aOGH92K8c/Djw9oRNMbFPpQxVJ+Sm5Jr6YJ8s=</DigestValue>
@@ -321,270 +249,6 @@
 <Reference URI="media%2Fimg%2Flang%2Fen%2Fui-shield.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>yjOQsw0dWbpKK9YZ0qGUFwqA3g3/PJ2RvNMyMvYM57o=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fbutton-back.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Y0V3xW/CYq7FjrtddplDFGY+e0IFLdQQmRfU/5IXtUE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fbutton-continue.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>OFhczjDD4j1yKHnyNiBfaLGEK5zhU9x7WkGhGoXOTQE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fbutton-restart.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bSm7lzYk+5ohYFLI+zYB0JwG9skg6kF+Hym+5LxaNnU=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fbutton-start.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AvMlZ/tqjnHKRxagPR+kYyk8db/LJ32htQfVYHy4BbU=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fgameover-best.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>535OIPvLcNfTZXSDsAD9zHJx+cfGJDbjcV40nobYJrg=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fgameover-highscore.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8p6XjvPBxrcWwpjPO0zvxUBct6vrq6fErykQ94+dSoE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fgameover-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>nMU6yNvWl76g8eaExl4CNS3e+APGd/PaXHSmYqe11mE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-gamecompleted.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>nSPRCYvV7VmzEPzm8rsbtynxtH1C29mj/yLc2nczE30=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-gameover-asteroid.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>OuJY5j6xQN7ZAFKkNCa3mOdE0tXG2UyUlrqsrp5Fewk=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-gameover-mine.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>wy52ioR15+cALJR8d183FF37+bqY/TeOb5/47i8Klso=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-gameover-offscreen.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>XxAN+UztAZrs8jXCCFGMoSi7gFNXvvogou4nhtepWgQ=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-howto.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>B8pRXblmfxbhjVd5lWwFq2E+bMiUscOC4KEdMp+518k=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-pause.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mTPsioLxPb+C1zC1UDSuCSonUEjdnj1lENziHhnsUjo=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fscreen-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hDfXl/4oYukWbxo6Q36LV9q3X3W7Z/HhOaxbQZTL6OQ=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fui-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>pITUmnyDH/Cnb1q/8MXZKT3tRm8oVB07+RW+mBGvz40=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fes%2Fui-shield.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>0/MBR5x82UfL6VC3MHqWUmWO3/avh/ua6QXz9xs3lgM=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fbutton-back.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qu8pZLVE7UDP1aULHEwzm96tfDqZ21F9oXZmOhN/e0E=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fbutton-continue.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>lhJ2Kjso10iWYxoJs/eP00PfHKyWVjfRg0Pr9SJKImo=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fbutton-restart.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2Q4LHmjJDU9Mar37G+Ez1RRYKJ2Chy3DpGuiJP7Lays=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fbutton-start.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>dlastPKyQEXlM0vypH+AR0N4ywHqbP4EpiyV/q27lcQ=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fgameover-best.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hym5TEEG31vP2EmswriKLn88AiYjFmWwp+0QlNoJcGI=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fgameover-highscore.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>b4sOvptA0fpmXbMqAV3gZAs6NzHQMboWwnMdA4ZPFkY=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fgameover-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>apIXFiACucxsvyNcZMQVirUfKXf37FB9ehQsAFToyr8=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-gamecompleted.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Xo+lLhIzoamsWmC2o1thN5RL6ST3dP60zsKz0qrn2XI=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-gameover-asteroid.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oxxBKF/l9M2HidcZGJqWLTsmcuzmbtfb5sK9G1uyRSE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-gameover-mine.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oxxBKF/l9M2HidcZGJqWLTsmcuzmbtfb5sK9G1uyRSE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-gameover-offscreen.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>IwyS3J3dQa7H/Uj6CR1ekNY1QldrPREE8x4P4vhuB2Q=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-howto.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mGGYCAiW3cgocicIQtqMCRa1pXXDjiBQXXkbw/d+ReE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-pause.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Ep63+q1SqlUG5Z8qb0ZNAGoD17tI0ghTvyUfumLe8ao=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fscreen-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>NQf9MX2Dak1K/KosRqhPo/8U5Lij2LDP9QnuRx60qTk=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fui-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>gpU7mZN5at64tG8W11/wbuFXwqxJecdRP+UK+FFvUFA=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fja%2Fui-shield.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>7bL+4pkO9GVSKgUui6xIBPI6yCMRIyXuHBln4bbWVtc=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fbutton-back.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>GLtdlrTqklHbNtkRZYQq0U5rLp217krmfuOVE63VLso=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fbutton-continue.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>07XdtCKV/UUtAyT486CWu3xnuVzRBIRxshYWnAyjsy0=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fbutton-restart.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2AxBTiRqXUtQQlkUMDm6XwFpESRsg1+7vRQ6cEGNrhE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fbutton-start.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>66mig3QmDX6FSXPWTOzXKg5vvXuzW59UXB2U88Njf0U=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fgameover-best.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Xkk2AqujPibwsdc5kE6pnAbeuVbKOgDRYC4ZohjmVx4=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fgameover-highscore.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>R83KfAFERSgz4cQYp5uffbMYyA/uaI6bQrovWK666zE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fgameover-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>KAk73IIgLaeWEh4G0LIc5NDLBMpXUt5WKXCvT7CxxkU=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-gamecompleted.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>a17kCoCWtOXfWL16yLyrfbZXurcWjB4nkrxlh0L5iXs=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-gameover-asteroid.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>rj2auIJIa7mhyc7UsU472oJubufIutu2SgXOr+HfAyw=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-gameover-mine.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ymrxAL5UFTy7y0/8yPix7XU7GPT123Aw0N/HsvdJ2KQ=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-gameover-offscreen.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>prwhDC3t6zX17CG+PCwDaAsxYUgEHU8YTxi/DccF7TY=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-howto.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2k02gX6GEv6hSmCRgSXQDXGbX30qWQw93Ro3GAnjyck=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-loading.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ugVlFX20r8lRZ+LGc5l7GDUYimPGieyxYxEWGPsiXRs=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-pause.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>4IwMORgSmUexoYYQqJtHhZZlj/Yjko/QFVW4KIq5NMs=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fscreen-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>n+bLvubluw9mpFx+uHPYS+vpK9Xp8XLVZ7fAXGBexyA=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fui-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>st3lMadLI5Vzh+UeFJbbaGJ97ZmDaxO5/vnZyQWmzfM=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Fpt%2Fui-shield.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>0/MBR5x82UfL6VC3MHqWUmWO3/avh/ua6QXz9xs3lgM=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fbutton-back.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>FPH9uStyJXjiuu5cnDu8aNiaMjx7NXntHGT/eDcl64A=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fbutton-continue.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>WivCmX1nFthPfQSZYDZwaBOaYQWbs+32VrkWgR7cs0M=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fbutton-restart.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MGJM74hKbYkQrm6bsQZePmtwEWrRWo62DErfqkdPxcE=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fbutton-start.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>TVqSODnpv9JruyLeAr3f2U7SWZPSeA7792U9bn4zN7Q=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fgameover-best.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bpXWCb+5YbIONdtmwOfEWbANWRYliTw2OPN4LMhLiEM=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fgameover-highscore.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>RHzl0OmguHgOZ7My8htRTI9tLNXGWSb5IZ/n///KQI8=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fgameover-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>QOeTsaITXvEE47beK9eV5mTNGn9m/B9Zej6mhR0linI=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-gamecompleted.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ghl1zOxiBaNiugMhxBpOSp07oJVSlLq+4TYeTzZXzK8=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-gameover-asteroid.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>HW0AcpzEriOHEBEzNG2eaggZrg6wtftOwCplkI/1Rhg=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-gameover-mine.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>W58nIxq1Xbhb36DN3NWreBlbkWuOcbyV6A5fT1zTc6k=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-gameover-offscreen.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2pV+OYxkAUXFzidsARrUo0LPJ4xultTpCX+qCjEl1Pg=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-howto.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>/7MDfwQQMabgNItaEUoLs1WvBQTtYaAVjv5G3dW050o=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-loading.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>e46hDz7U1uIht8hW2+NFyYVUMpK2PsT/NTN/AnytgNo=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-pause.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Z/0gQg73QrWaCiPw8+sB4cmTOkOu7jXhgp6tfiBz98I=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fscreen-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>gG9A8eQOUljodRVY8wiXT0E4EcYgL081vylU9XsxXJc=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fui-score.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>HYkgeACMC9GuyYaGtM+eSj9gas8btL1FonNfmn1HcP8=</DigestValue>
-</Reference>
-<Reference URI="media%2Fimg%2Flang%2Ftr%2Fui-shield.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>EK0xIWKhROowgYu2pw5iW0tW6pIZ0PNNPFsnRvhPbFU=</DigestValue>
 </Reference>
 <Reference URI="media%2Fimg%2Fmine.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -600,7 +264,7 @@
 </Reference>
 <Reference URI="media%2Fimg%2Fscreen-loading.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>s9hOeRY2PszbyjtZfECrLKB3pfk5CA4LT4rVcIcUbD4=</DigestValue>
+<DigestValue>Ph8FCPye26sQubRM/dxz5Ma4LuwWtMKJ+yAHCHzaMbQ=</DigestValue>
 </Reference>
 <Reference URI="media%2Fimg%2Fscreen-rotate.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -670,6 +334,10 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>djxRUed3zCHuuOEyr/M2Ip/S7/VD+v5bhKvwe6T3fKo=</DigestValue>
 </Reference>
+<Reference URI="rogers.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oCTsj8q63lak05HFlB61yOI1QXfGb2cenC63kMYiy34=</DigestValue>
+</Reference>
 <Reference URI="screens%2Fcaptainrogers-gameplay.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>e6k1Zymds9B/eAVaLX+WGkv/A2JAVNrQ4vu3L7bYebQ=</DigestValue>
@@ -691,9 +359,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-dypoYtfaeD2IoKvxzz0Ijao+Nz2d/ttVCD0HsgRrBaJRwlphk9yQ40mgWHb+GRq4qjWvPueVIwUe
-v4AmoyAyb+7W1H/WdP10W9SGcMMTZv/09JnfLjHwicv38KPbSCtRdrHthQTvqQI3yl+h7HRFZ9EP
-GZ9m9N1in9Qev4Qt0WY=
+NM1KVB7VeECY7u1suMs6nJ3c60lz0TQNIkuyRRo7q6uT0u73vilkr7JcNZdbDWmSL/qmw6cj9+36
+UH32Nn9Q6pnMra5Z8gei9l7mdnkW9vPlKBjFaH0c1ajoILEkL9kP+FQ7JydBvAjyCHaiM58/PPc3
+kVBrOtQc3X1fPmEhqf0=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

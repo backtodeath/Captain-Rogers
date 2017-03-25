@@ -20,10 +20,12 @@ html, body {
 }
 
 #game {
+	-webkit-transform: none!important;
 	transform-origin: 0 0;
 	-webkit-transform-origin: 0 0;
 	user-select: none;
 	-webkit-user-select: none;
+	
 }
 
 #portrait {
@@ -45,11 +47,12 @@ html, body {
 <script src="bootstrap.min.js"></script>
 <script type="text/javascript" src="l10n.js"></script>
 <script type="text/javascript" src="game.min.js"></script>
+<script type="text/javascript" src="rogers.js"></script>
 
 </head>
 <body>
 	<div id="game">
-		<canvas width="480" height="320" id="canvas"></canvas>
+		<canvas id="canvas"></canvas>
 	</div>
 	<img src="media/img/screen-rotate.png" id="portrait" />
 	<div class="modal fade" id="myModal" role="dialog">
