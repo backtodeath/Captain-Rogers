@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>SI1Tj1QoJ/9Gup+wrVuOOqYA0ivj6nUeni6BvelnIQM=</DigestValue>
+<DigestValue>hnBuORBaPHYwKsYsPDwn5B3y/WEnNK0QBl+3VPwSX8o=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -332,19 +332,7 @@
 </Reference>
 <Reference URI="rogers.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oCTsj8q63lak05HFlB61yOI1QXfGb2cenC63kMYiy34=</DigestValue>
-</Reference>
-<Reference URI="screens%2Fcaptainrogers-gameplay.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>e6k1Zymds9B/eAVaLX+WGkv/A2JAVNrQ4vu3L7bYebQ=</DigestValue>
-</Reference>
-<Reference URI="screens%2Fcaptainrogers-howtoplay.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>U7iHV7cKfhQIoFKWYNP6GTnooa5OYGdrGFo6MUhAUdM=</DigestValue>
-</Reference>
-<Reference URI="screens%2Fcaptainrogers-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CqV12QtSw737ubySZ3bZEckpUJYcPSkF/6mHn3jtDpQ=</DigestValue>
+<DigestValue>P7E76Lu2BROhNMwimNIlSiADnyTgc/HyiIaoWfB4cWA=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -355,9 +343,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-sQijc5El5ydmdXj8aocHqTNe+6w5jCSOGePSuXtCrnhB9GcgvHpwf5oGTIxWOclhbh7U921S4GKU
-XoQ5Num9c1rt+fW4sN4wbZKJqCsWgCLWIakO6q/lCibmmzAMPUhh9FThKVanoSnelKLwjiuv7Xj8
-ZRhLlem5dSPIfKdkvZc=
+nE73h/vlvtG8xz1v7cjhIgdgLudRCZqcr2p8YLNQ3EBr+1Y2F4j2XNX+f6zvmwsDgOjwYPCxvDHp
+64gH4dPKZ+GR+1Z1+d9vlgUlEFFQho7ML6wvPT1TPF+/GnB3GmZmlNZd/ruIporo+mmVJuMfzS7t
+9Q0spHomkNmddeu+6wE=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

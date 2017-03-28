@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AKj+alG2iKCB6TGJWR725hIAdyQO9hXiKHGirzeBm4c=</DigestValue>
+<DigestValue>R475Z28Oo9b/RutKPEKPgg12+OLeWY7Y7jr8NTxrSZ8=</DigestValue>
 </Reference>
 <Reference URI="bootstrap.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,7 +20,7 @@
 </Reference>
 <Reference URI="game.min.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>SI1Tj1QoJ/9Gup+wrVuOOqYA0ivj6nUeni6BvelnIQM=</DigestValue>
+<DigestValue>hnBuORBaPHYwKsYsPDwn5B3y/WEnNK0QBl+3VPwSX8o=</DigestValue>
 </Reference>
 <Reference URI="icon2.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -336,19 +336,7 @@
 </Reference>
 <Reference URI="rogers.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oCTsj8q63lak05HFlB61yOI1QXfGb2cenC63kMYiy34=</DigestValue>
-</Reference>
-<Reference URI="screens%2Fcaptainrogers-gameplay.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>e6k1Zymds9B/eAVaLX+WGkv/A2JAVNrQ4vu3L7bYebQ=</DigestValue>
-</Reference>
-<Reference URI="screens%2Fcaptainrogers-howtoplay.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>U7iHV7cKfhQIoFKWYNP6GTnooa5OYGdrGFo6MUhAUdM=</DigestValue>
-</Reference>
-<Reference URI="screens%2Fcaptainrogers-story.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CqV12QtSw737ubySZ3bZEckpUJYcPSkF/6mHn3jtDpQ=</DigestValue>
+<DigestValue>P7E76Lu2BROhNMwimNIlSiADnyTgc/HyiIaoWfB4cWA=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -359,9 +347,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-NM1KVB7VeECY7u1suMs6nJ3c60lz0TQNIkuyRRo7q6uT0u73vilkr7JcNZdbDWmSL/qmw6cj9+36
-UH32Nn9Q6pnMra5Z8gei9l7mdnkW9vPlKBjFaH0c1ajoILEkL9kP+FQ7JydBvAjyCHaiM58/PPc3
-kVBrOtQc3X1fPmEhqf0=
+sOpAXjfOOfRRxICOdSsbBYtKR5dWVIYSUY4XzKi5/71jxFFmzdvx7CFttqXNLk2LT2YwccDbub5U
+ZF6tRkufO2HNv8Ki8IKFHMy6tdY1wU4MzjgE9R/vP8886YMLG/4vbrKeo4ElkvYlTk1mp7R/Y5Qu
+TKFjogzULKPt/ionYR0=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

@@ -13,8 +13,6 @@ ig.module(
 
 var _LANG_CODE = 'en';
 
-var audio = new Audio('media/audio/theme-music.ogg');
-
 var animSheetList = {
 	buttonBack: {},
 	buttonContinue: {},
@@ -522,7 +520,7 @@ RogersGame = ig.Game.extend({
 	gameCompleted: false,
 	maxScore: 20000,
 	score: 0,
-	speed: 1.5,
+	speed: 1.8,
 	seconds: null,
 	secondsTimer: null,
 	gameOverRunOnce: false,
@@ -571,7 +569,6 @@ RogersGame = ig.Game.extend({
 		this.newItemTable();
 		ig.game.player.vel.y = 0;
 		this.oldHighscore = ig.game.storage.get('rogers-highscore');
-		// console.log('Old highscore: '+this.oldHighscore);
 		this.settingTheScore = false;
 	},
 	placeEntity: function(entity) {
@@ -643,7 +640,6 @@ RogersGame = ig.Game.extend({
 			var newHighscore = (this.score).floor();
 			if(newHighscore > this.oldHighscore && !this.settingTheScore) {
 				ig.game.storage.setHighest('rogers-highscore',newHighscore);
-				// console.log('Old highscore: '+this.oldHighscore+', new highscore: '+newHighscore);
 				this.settingTheScore = true;
 			}
 		}
@@ -926,31 +922,42 @@ ig.main('#canvas', StartScreen, 0, window.innerWidth, window.innerHeight, 1, ig.
 
 function getImageUrl(string){
 	var size = window.innerWidth < 600 ? '533' : '640';
-	console.log('media/img/lang/en/'+ size +'/screen-'+string+'.png')
 	return 'media/img/lang/en/'+ size +'/screen-'+string+'.png';
 }
 
-(function() {
+var audio = new Audio('media/audio/theme-music.ogg');
+audio.addEventListener('ended', function() {
+	this.currentTime = 0;
+	this.play();
+}, false);
+
+var hidden,visibilityChange, hidden;
+if (typeof document.hidden !== "undefined") {
+	hidden = "hidden";
+	visibilityChange = "visibilitychange";
+} else if (typeof document.webkitHidden !== "undefined") {
+	hidden = "webkitHidden";
+	visibilityChange = "webkitvisibilitychange";
+}
+
 function handleVisibilityChange() {
-	if(document.hidden) {
-		if(ig && ig.music && ig.Sound) {
-			if(ig.Sound.enabled) {
-				ig.music.pause();
-			}
+	if(document.hidden || document.webkitHidden) {
+		ig.game.gamePaused = true;
+		if(ig.Sound.enabled) {
+			audio.pause();
 		}
 	}
 	else {
-		if(ig && ig.music && ig.Sound) {
-			if(ig.Sound.enabled) {
-				ig.music.play();
-			}
+		if(ig.Sound.enabled) {
+			audio.play();
 		}
 	}
 }
+
+
+document.addEventListener(visibilityChange, handleVisibilityChange);
 
 function getImageSize(){
 	return window.innerWidth < 600 ? '533' : '640';
 }
 
-document.addEventListener("visibilitychange", handleVisibilityChange, false);
-})();
