@@ -332,7 +332,7 @@
 </Reference>
 <Reference URI="rogers.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>P7E76Lu2BROhNMwimNIlSiADnyTgc/HyiIaoWfB4cWA=</DigestValue>
+<DigestValue>n/cCs1ZPVkuvdec7Za5M38rogXokHvOQKJApl8mzdME=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -343,9 +343,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-nE73h/vlvtG8xz1v7cjhIgdgLudRCZqcr2p8YLNQ3EBr+1Y2F4j2XNX+f6zvmwsDgOjwYPCxvDHp
-64gH4dPKZ+GR+1Z1+d9vlgUlEFFQho7ML6wvPT1TPF+/GnB3GmZmlNZd/ruIporo+mmVJuMfzS7t
-9Q0spHomkNmddeu+6wE=
+FwrzG6MVLfDJkM8KrQh1macw6DBKhWBBDqAlpZMBp2Xbo0+twjhLJnc01Y6JJQ3U6/qbjZ1gL66G
+8t+ixOjV3RpGjBFPQWeEqNnk8TkL3Qe4k/wZe/bbzszrJamDppbp/chClSNNUOguErvPiv+ZYc6Y
+YQlsXfAevFUsFFAT5tg=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
